@@ -1,0 +1,20 @@
+SP matriz
+diretoria --> 8pc/8tel + 1 impressora + camera IP --> 10
+Financeiro --> 25/25 + 5 impressora + camepra IP --> 56
+Contabilidade --> 25/25 + 5 imp + Camera IP ==> 56
+Comercial --> 50/25 + 5 imp IP + Camera ip --> 81
+Custos --> 10/10 + 1 imp IP + Camera IP --> 22
+RH --> 5/5 + imp + Cam --> 12
+Compras --> 10 + cam --> 11
+servidor geral > a definir
+
+Interior SP / MG
+Portaria --> 2/2 --> 4
+Lab --> 5/5 + impressora + Camera -> 12
+Prod --> 5/5 + camera --> 11
+Exp --> 5/5 + camera --> 11
+faturamento 10/10 + 1 + 1 ==> 22
+manutençao --> 5/5 +1 +1 ==> 12
+TI 5/5 + 1 + 1 --> 12
+Servidor local > a definir
+
