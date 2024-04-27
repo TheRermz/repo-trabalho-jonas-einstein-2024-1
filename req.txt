@@ -9,7 +9,7 @@ Compras --> 10 + cam --> 11
 servidor geral > a definir
 
 Interior SP / MG
-Portaria --> 2/2 --> 4
+Portaria --> 2/2 + camera --> 5
 Lab --> 5/5 + impressora + Camera -> 12
 Prod --> 5/5 + camera --> 11
 Exp --> 5/5 + camera --> 11
@@ -18,3 +18,7 @@ manutençao --> 5/5 +1 +1 ==> 12
 TI 5/5 + 1 + 1 --> 12
 Servidor local > a definir
 
+
+total total matriz --> 248
+total interior SP / MG --> 170
+total IPS --> 420
